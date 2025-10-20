@@ -1,4 +1,4 @@
-,Sourced,Placed,References,Value,Footprint,Quantity,Unit price ,price
+,Sourced,Placed,References,Value,Footprint,Quantity,Unit price,price
 1,,,"C3, C4, C9, C10, C15, C16, C27, C28, C30, C36, C37, C39, C42, C52, C60, C65, C67, C69, C71, C85, C86",10uF,C_0603_1608Metric,21,0.32,6.72
 2,,,"C5, C8, C11, C14, C17, C20, C23, C29, C38, C47, C51, C58, C59, C61, C66, C68, C70, C72, C76, C78, C80",100nF,C_0402_1005Metric,21,0.12,2.52
 3,,,"C1, C2, C22, C48, C49, C50, C53, C54, C55, C56, C57, C62, C75, C77, C79, C83, C84",1uF,C_0402_1005Metric,17,0.11,1.87
@@ -84,5 +84,6 @@
 82,,, J23 ,RTL8852BE M.2 WiFi/BT card,RTL8852BE M.2 WiFi/BT card,1
 83,,,  J1 ,Rockchip RK3588,Rockchip RK3588,1
 84,,, J8,RTL8852BE M.2 WiFi/BT card,RTL8852BE M.2 WiFi/BT card,1
+
 
 
