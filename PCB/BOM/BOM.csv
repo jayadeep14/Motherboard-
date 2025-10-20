@@ -81,6 +81,7 @@
 80,,,J24,Micro_SD_Card_Det1,TF-SMD_TF-CARD-H1.8,1
 
 81,,,J25,USB-231-ARY,USB-A-TH_USB-231-ARY,1
-82,,,  ,RTL8852BE M.2 WiFi/BT card,RTL8852BE M.2 WiFi/BT card,1
-83,,,   ,Rockchip RK3588,Rockchip RK3588,1
-84,,, ,RTL8852BE M.2 WiFi/BT card,RTL8852BE M.2 WiFi/BT card,1
+82,,, J23 ,RTL8852BE M.2 WiFi/BT card,RTL8852BE M.2 WiFi/BT card,1
+83,,,  J1 ,Rockchip RK3588,Rockchip RK3588,1
+84,,, J8,RTL8852BE M.2 WiFi/BT card,RTL8852BE M.2 WiFi/BT card,1
+
