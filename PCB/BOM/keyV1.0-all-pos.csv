@@ -1,0 +1,45 @@
+Comment,Val,Package,Mid X,Mid Y,Rotation,Layer
+D1,1N4148WS,D_SOD-323_HandSoldering,41.4,53.65,-90,top
+D2,1N4148WS,D_SOD-323_HandSoldering,59.9,56.6,-90,top
+D3,1N4148WS,D_SOD-323_HandSoldering,79.4,59.65,-90,top
+D4,1N4148WS,D_SOD-323_HandSoldering,60.4,111.2,90,top
+D5,1N4148WS,D_SOD-323_HandSoldering,60.3,92.2,90,top
+D6,1N4148WS,D_SOD-323_HandSoldering,61,73,90,top
+D7,1N4148WS,D_SOD-323_HandSoldering,79.4,117.25,90,top
+D8,1N4148WS,D_SOD-323_HandSoldering,79.3,98.2,90,top
+D9,1N4148WS,D_SOD-323_HandSoldering,79.4,79.1,90,top
+D10,1N4148WS,D_SOD-323_HandSoldering,98.4,125.2,90,top
+D11,1N4148WS,D_SOD-323_HandSoldering,98.4,106.2,90,top
+D12,1N4148WS,D_SOD-323_HandSoldering,98.4,87.15,90,top
+D13,1N4148WS,D_SOD-323_HandSoldering,117.5,121.75,-90,top
+D14,1N4148WS,D_SOD-323_HandSoldering,117.4,100.2,90,top
+D15,1N4148WS,D_SOD-323_HandSoldering,117.6,81.2,90,top
+D16,1N4148WS,D_SOD-323_HandSoldering,136.6,108.85,-90,top
+D17,1N4148WS,D_SOD-323_HandSoldering,136.5,87.2,90,top
+D18,1N4148WS,D_SOD-323_HandSoldering,136.5,68.1,90,top
+R1,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,41.87,65.8,-90,top
+R2,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,41.45,88.975,-90,top
+R3,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,41.87,97.44,-90,top
+R4,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,28.19,94.43,180,top
+R5,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,28.2,96.35,180,top
+R6,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,23.7,94.45,180,top
+R7,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,23.7,96.4,180,top
+ C400226,Plugin Mechanical Keyboard Shaft ROHS, C400226,24.7,88.975,90,top
+ C400226,Plugin Mechanical Keyboard Shaft ROHS, C400226,25.7,89.975,90,top
+ C400226,Plugin Mechanical Keyboard Shaft ROHS, C400226,26.7,90.975,90,top
+ C400226,Plugin Mechanical Keyboard Shaft ROHS, C400226,27.7,91.975,90,top
+ C400226,Plugin Mechanical Keyboard Shaft ROHS, C400226,28.7,92.975,90,top
+ C400226,Plugin Mechanical Keyboard Shaft ROHS, C400226,29.7,93.975,90,top
+ C400226,Plugin Mechanical Keyboard Shaft ROHS, C400226,30.7,94.975,90,top
+ C400226,Plugin Mechanical Keyboard Shaft ROHS, C400226,31.7,95.975,90,top
+ C400226,Plugin Mechanical Keyboard Shaft ROHS, C400226,32.7,96.975,90,top
+ C400226,Plugin Mechanical Keyboard Shaft ROHS, C400226,33.7,97.975,90,top
+ C400226,Plugin Mechanical Keyboard Shaft ROHS, C400226,34.7,98.975,90,top
+ C400226,Plugin Mechanical Keyboard Shaft ROHS, C400226,35.7,99.975,90,top
+ C400226,Plugin Mechanical Keyboard Shaft ROHS, C400226,36.7,100.975,90,top
+ C400226,Plugin Mechanical Keyboard Shaft ROHS, C400226,37.7,101.975,90,top
+ C400226,Plugin Mechanical Keyboard Shaft ROHS, C400226,38.7,102.975,90,top
+ C400226,Plugin Mechanical Keyboard Shaft ROHS, C400226,39.7,103.975,90,top
+ C400226,Plugin Mechanical Keyboard Shaft ROHS, C400226,40.7,104.975,90,top
+ C400226,Plugin Mechanical Keyboard Shaft ROHS, C400226,41.7,105.975,90,top
+ C9900176459,Seeed Studio XIAO RP2040, C9900176459,31.77,99.23,90,top
